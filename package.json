@@ -1,6 +1,6 @@
 {
   "name": "@ekreative/react-native-slider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A pure JavaScript <Slider /> component for react-native",
   "main": "lib/Slider.js",
   "files": [
@@ -25,9 +25,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:ekreative/react-native-slider.git"
-  },
-  "dependencies": {
-    "prop-types": "^15.5.6"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
